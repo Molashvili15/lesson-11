@@ -1,0 +1,183 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	 font-size: 100%;
+}
+a {
+	text-decoration: none;
+}
+
+header{
+	background-color: blue;
+	height: 400px;
+	margin-top: 20px;
+}
+
+.nikas-div{
+display: flex;
+flex-direction: row-reverse;
+margin-right: 550px;
+font-size: 30px;
+
+}
+
+a{
+	margin-left: 20px;
+	color: white;
+	margin-top: 40px;
+}
+.nikal-a{
+	background-color: white;
+	color: black;
+	height: 45px;
+	border-radius: 30px;
+}
+.img-mol{
+margin-right: 510px;
+	margin-top: 20px;
+}
+
+.nika-li{
+	color: red;
+	font-size: 30px;
+}
+.mola-li{
+	background-color: white;
+	color: red ;
+	border-radius: 15px;
+}
+
+#main-crs{
+
+	 width: 80%;
+  height: 600px;
+  margin-top: -200px;
+  padding-bottom: 30px;
+  border-radius: 15px;
+	}
+
+h2{
+margin-right: 30px;
+	font-size: 30px;
+	padding-bottom: 30px;
+}
+
+.nikas-images img{
+	object-fit: cover;
+	width: 250px;
+	height: 250px;
+	margin-right: 10px ;
+
+}
+
+.nikas-div p{
+		font-size: 20px;
+		width: 1000px;
+
+
+}
+
+
+section{
+	width: 1500px;
+	margin: auto;
+	display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  opacity: 1;
+
+
+}
+	
+
+#nikas-a{
+	background-color: blue;
+	border-radius: 15px;
+	font-size: 30px;
+	color: white;
+margin-bottom: 20px;
+}
+
+#nikas-divid{
+	border-radius: 15px;
+	text-align: left;
+	font: 20px;
+	background-color: blue;
+	color: white;
+	margin-top: 150px;
+		
+}
+
+.nikasi-div{
+width: 1200px;
+font-size: 20px;
+margin-top: 50px;
+
+}
+
+
+
+
+
+
+
+footer{
+  height: 1000px;
+  background-color: blue;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+.p-main{
+ width: 420px;
+ margin-top: 30px;
+}
+.nika-div{
+  margin-left: 150px;
+  margin-top: 450px;
+ 
+
+}
+h1{
+  font-size: 30px;
+
+}
+iframe{
+ margin-top: 45px;
+    margin-left: 150px;
+
+}
+.la-li{
+background: white;
+height: 80px;
+width: 80px;
+border-radius: 50px;
+margin-left: 150px;
+margin-top: 50px;
+
+}
+img{
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.la-le{
+    margin-left: 35px;
+    font-size: 30px;
+    margin-top: 75px;
+}
+
+.main-div{
+  display: flex;
+  flex-direction: row ;
+color: white;
+  background-color: blue;
+  height: 1000px;
+}
+
+ .input-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;}
+
